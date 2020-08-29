@@ -5,3 +5,4 @@ this is the third time
 this is the line for doing the merging conflict
 this is the fourth line
 this is for rebasing
+this is for merging local branch to master in remote
