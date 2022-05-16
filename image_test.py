@@ -2,6 +2,8 @@
 import os
 from PIL import Image
 
+#random comment
+
 directory = "/home/student-02-e7c7d36f94e7/images"
 
 for file in os.listdir(directory):
